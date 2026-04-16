@@ -1,4 +1,4 @@
-<img width="5370" height="3432" alt="ensemble_exitoso_results" src="https://github.com/user-attachments/assets/ffc45c8c-80e1-4a15-9896-61018bc38e79" /># EyeAnalyticAI
+# EyeAnalyticAI
 Sistema de análisis ocular basado en aprendizaje profundo para la extracción de características y detección de enfermedades potenciales.
 
 ## Features
